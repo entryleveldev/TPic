@@ -1,8 +1,8 @@
 package com.entryleveldev.tpic;
 
 public class Const {
-	static String CONSUMER_KEY = "rkdxIuQB2TtcBdflELNiJA";
-	static String CONSUMER_SECRET = "tvETbyR60N9aGBT6a9ARysPqONOqK0Tb9RRUDzG3Vgs";
+	static String CONSUMER_KEY = "";
+	static String CONSUMER_SECRET = "";
 
 	static String PREFERENCE_NAME = "twitter_oauth";
 	static final String PREF_KEY_SECRET = "oauth_token_secret";
